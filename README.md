@@ -1,6 +1,8 @@
 # LearnElixir
 
-**TODO: Add description**
+## A little bit information
+
+I started learning elixir based on (Dockyard Academy Elixir Curriculum)[https://github.com/DockYard-Academy/curriculum] all things from here influenced by the curriculum, my exercises and my experiments.
 
 ## Installation
 
